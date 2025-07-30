@@ -30,3 +30,7 @@ uv add numpy
 
 If you want to practice with different kinds of data:
 [Kaggle](https://www.kaggle.com)
+
+If you want to manipulate data with pandas, better to use .ipynb extension for Jupiter Notebook
+
+[Beutiful Soup docs](https://www.crummy.com/software/BeautifulSoup/bs4/doc)
